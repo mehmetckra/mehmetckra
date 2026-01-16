@@ -44,8 +44,10 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetckra&show_icons=true&theme=radical&hide_border=true" height="180" alt="mehmetckra's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetckra&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mehmetckra&show_icons=true&theme=radical&hide_border=true" alt="Mehmet Can's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetckra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
 </div>
 
 ---
