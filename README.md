@@ -44,7 +44,7 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetckra&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="mehmetckra's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetckra&show_icons=true&theme=radical&hide_border=true" height="180" alt="mehmetckra's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetckra&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
@@ -62,5 +62,5 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/L1R1TVTh2RhtR5Jgww/giphy.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/e8/63/a3/e863a35d7963d6f7842a20dc3e3f7493.gif" width="200" />
 </div>
